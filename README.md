@@ -10,13 +10,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kirihara&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
-  <br>
-
-  <p>
-    <a href="mailto:[Your Email Address]"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-    <a href="[Your-X-Profile-URL]"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  </p>
-  
+  <br
 </div>
 
 <br>
