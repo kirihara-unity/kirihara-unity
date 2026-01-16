@@ -30,18 +30,6 @@
 
 <br>
 
-<div align="center">
-  <h2>📈 GitHub Stats</h2>
-
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirihara-unity&layout=compact&theme=radical" alt="kirihara-unity's Top Languages"/>
-  </p>  
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=kirihara-unity&show_icons=true&theme=radical" alt="kirihara-unity's GitHub Stats"/>
-  </p>
-
-</div>
-
 <br>
 
 <div>
