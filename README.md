@@ -5,7 +5,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kirihara%20Github%21&fontSize=50" />
 </a>
 </div>
-<p><strong> Unity / Web Front-end Programmer!</strong></p>
 <br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kirihara&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
